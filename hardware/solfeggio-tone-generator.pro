@@ -1,4 +1,4 @@
-update=ned 25 mar 2018 20:08:48 EEST
+update=tor 27 mar 2018 00:25:48 EEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=/home/otto/src/Elektroniikka/Omat/oturpe-kicad-lib/oturpe-kicad-lib
+LibName31=/home/otto/src/Elektroniikka/Muiden/kicad-library/library/switches
